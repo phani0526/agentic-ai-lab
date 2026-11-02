@@ -1,0 +1,14 @@
+
+# secrets and local files
+.env
+.DS_Store
+.ruff_cache/
+.pytest_cache/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
